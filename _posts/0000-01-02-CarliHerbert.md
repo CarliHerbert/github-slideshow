@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Bear Bounce Balls ; Birds Blow Bubbles #tonguetwistertuesday
 Use the left arrow to go back!
